@@ -2,6 +2,9 @@
 
 ## Hi there 👋
 
+### About Me
+#### I am the top graduate from the Academy of Informatics Engineering Tunas Bangsa with a Diploma in Informatics Management.
+
 ### Skills
 
 #### Programming Languange
